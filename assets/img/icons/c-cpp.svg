@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="c-cpp.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.10512065"
+     inkscape:cx="1022.6345"
+     inkscape:cy="2088.0769"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-599.31136"
+       y="371.00227"
+       width="4480.5659"
+       height="3015.5825"
+       id="rect3445" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:716.668px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.99;fill:#00599c;fill-opacity:1;stroke-width:19.92099982;stroke-dasharray:none"
+       x="1.4193976"
+       y="575.8916"
+       id="text186"
+       transform="scale(0.72914157,1.3714758)"><tspan
+         sodipodi:role="line"
+         id="tspan184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:716.668px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:19.92099982;fill:#00599c;fill-opacity:1;stroke-dasharray:none"
+         x="1.4193976"
+         y="575.8916">c/c++</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3443"
+       style="opacity:0.99;-inkscape-font-specification:'Berlin Sans FB, Normal';font-family:'Berlin Sans FB';font-size:2543.48974609px;stroke-width:9.7;fill:#487fff;fill-opacity:0.78636396;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3445)" />
+  </g>
+</svg>
